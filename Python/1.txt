@@ -1,0 +1,4 @@
+1. vim/emacs
+2. python
+3. c compiler (clang, gcc, 
+4. zsh
